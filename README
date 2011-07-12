@@ -1,0 +1,7 @@
+Generate a graphviz map of EC2 Security groups.
+This is so new it hurts so please treat it as such.
+
+TO DO:
+* Colourize
+* Actually integrate with graphviz
+* loads of other stuff
